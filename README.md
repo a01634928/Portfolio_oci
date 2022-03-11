@@ -8,4 +8,4 @@ Description: Project requested by a regional gas company. The script automate th
 
 
 ## -Third project-
-Description: Project requested by a  National Solar energy company. The script obtain historical data from multiple sources in order to develop a statistical model that helps to determine the relation of energy purchase price (in >2500 points of distribution) using factors as dolar, natural gas and oil price.
+Description: Project requested by a  national Solar energy company. The script obtain historical data from multiple sources in order to develop a statistical model that helps to determine the relation of energy purchase price (in >2500 points of distribution) using factors as dolar, natural gas and oil price.
